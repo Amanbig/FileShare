@@ -317,4 +317,6 @@ If you encounter any issues or have questions:
 
 ---
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95%EF%B8%8F-orange?style=for-the-badge)](https://buymeacoffee.com/amanpreet)
+
 **Built with ❤️ by the FileShare team**
